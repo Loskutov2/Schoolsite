@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Chalk cyrillic freehand';
+    src: url('Chalkcyrillicfreehand.eot');
+    src: local('Chalk cyrillic freehand'), local('Chalkcyrillicfreehand'),
+        url('Chalkcyrillicfreehand.eot?#iefix') format('embedded-opentype'),
+        url('Chalkcyrillicfreehand.woff2') format('woff2'),
+        url('Chalkcyrillicfreehand.woff') format('woff'),
+        url('Chalkcyrillicfreehand.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

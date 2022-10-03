@@ -1,0 +1,167 @@
+
+@font-face {
+  font-family: 'Chalk cyrillic freehand';
+  src: url('/fonts/Chalkcyrillicfreehand.eot');
+  src: local('Chalk cyrillic freehand'), local('Chalkcyrillicfreehand'),
+      url('Chalkcyrillicfreehand.eot?#iefix') format('embedded-opentype'),
+      url('Chalkcyrillicfreehand.woff2') format('woff2'),
+      url('Chalkcyrillicfreehand.woff') format('woff'),
+      url('Chalkcyrillicfreehand.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+  a{text-decoration: none;}
+ul{list-style: none;}
+body{
+  font-family: Chalk cyrillic freehand;
+  color: rgb(255, 255, 255);
+  background-size: cover;
+  padding-left: 130px;
+  height: 1100px;
+}
+.PML{
+  background-image: url(/Images/MainBackgroung\ \(1\).jpg);
+}
+.Dlauchniv{
+  background-image: url(/Images/MainBackgroung\ \(3\).jpg);
+}
+.zagolovok{
+  font-size: 128px;
+  width: 800px;
+  line-height: 100px;
+  margin-top: 60px;
+}
+.information{
+  font-size: 64px;
+  color: white;;
+}
+.dodomu{
+  width: 80px;
+  height: 80px;
+  opacity: 40%;
+  position: absolute;
+}
+.dodomu-buttonu{
+  margin-left: 750px;
+}
+.zagolovok.u{
+  margin-top: 60px;
+  margin-left: 39%;
+}
+.Dlauchniv{
+  padding-left: 0px;
+  padding-top: 200px;
+  height: 900px;
+  background-repeat: no-repeat;
+}
+.inf-dlauchniv{
+  text-align: center;
+  color: white;
+}
+.information.dlauch{
+  text-align: center;
+}
+.rozklad{
+  background-image: url(/Images/розклад.jpg);
+}
+.zagolovok.r{
+  position: absolute;
+  margin-left: 1000px;
+}
+.rozkladimg.week{
+  margin-top: 200px;
+  width: 1000px;
+  height: 600px;
+}
+.dodomu.r{
+  top: 750px;
+  margin-left: 10%;}
+.events{
+  background-image: url(/Images/events.jpg)
+}
+.papper{
+  font-size: 32px;
+  font-family: serif;
+  color: black;
+  line-height: 90%;
+  position: absolute;
+}
+.papper.firstt{
+  width: 30px;
+  left: 62%;
+  top: 40%;
+}
+.papper.second{
+  width: 30px;
+  left: 49%;
+  margin-top: 28%;
+}
+.dodomu.e{
+   left: 41.8%;
+   top: 41%;
+}
+.pb{
+  margin-left: 35%;
+  margin-top: 1%;
+  font-size: 32px;
+  background: rgb(68, 105, 228);
+  border: none;
+  border-radius: 10px;
+  width: 200px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  color: rgb(149, 205, 255);
+}
+.pb:hover,
+.pb:focus{
+  background: rgb(116, 119, 213);
+}
+.bopa{
+  height: 1000px;
+  background-image: url(/Images/Паролб\ фон.jpg);
+  padding-top: 100px;
+}
+.tchc{
+  width: 400px;
+  border-radius: 10px;
+  background-color: rgba(20, 42, 114, 0.5);
+  color: rgb(164, 201, 249);
+  font-family: serif;
+  margin-left: 29%;
+  margin-top: 10%;
+  text-align: center;
+}
+.ok{
+  position: absolute;
+  font-size: 32px;
+  margin-top: 5%;
+  margin-left: -9%;
+  background: rgb(68, 105, 228);
+  border: none;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+}
+.a{
+  color: rgb(238, 241, 255);
+}
+.ok:hover,
+.ok:focus{
+  background: rgb(89, 118, 214);
+  color: rgba(255, 255, 255, 0.614);
+}
+.tech{
+  color: black;
+  background-image: url(/Images/Event.png);
+  padding-top: 200px;
+  padding-right: 200px;
+}
+.inf-dlauchniv.b{
+  color: black;
+}
+.dodomu-buttont{
+  margin-left: 48%;
+}
+.zagolovok.u.t{
+  margin-left: 30%;
+  margin-top: 10%;
+}
